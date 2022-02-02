@@ -1,0 +1,46 @@
+@import "null.css";
+
+h2{
+    color:blue;
+}
+.paragraf
+{
+    color:pink;
+}
+.fz
+{
+    font-size: 19px;
+}
+#green{
+    color: green;
+}
+.big.par{
+    color: slateblue;
+}
+.fz span{
+    color: red;
+}
+.middle-content .vlozh
+{
+    color: wheat;
+}
+.content-1,
+.content-2
+{
+    color: yellow;
+}
+[class*="example"]
+{
+    color: tomato;
+}
+[class="product"]
+{
+color: violet;
+}
+.section >p
+{
+color: turquoise;
+}
+.section-button-1 + p{
+    color: blue;
+}
